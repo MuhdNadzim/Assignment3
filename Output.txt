@@ -1,0 +1,17 @@
+run:
+
+Name: En.Nadzim
+Equipment: Dumbell
+Set: 12x -3set
+Calories: 300
+
+Name: En.Muhamad
+Equipment: Treadmill
+Set: 30 minutes
+Calories: 200
+
+Name: En.Ahmad
+Equipment: Bikemill
+Set: 30 minutes
+Calories: 4000
+BUILD SUCCESSFUL (total time: 0 seconds)
