@@ -1,14 +1,16 @@
-package Assignment2;
 
-public class BikeExercise extends Gym{
-		String caoch,equipment,set,calories;
+package Assignment3;
+
+public class Weightlifting extends Gym {
+
+	String caoch,equipment,set,calories;
                 
 public void infoGym(){
     
-    setCoach("En.Ahmad");
-    setEquipment("Bikemill");
-    setSet("30 minutes");
-    setCalories("4000");
+    setCoach("En.Alif");
+    setEquipment("Dumbell");
+    setSet("12x -3set");
+    setCalories("300");
     
     System.out.println("\nName: "+getCoach());
     System.out.println("Equipment: "+getEquipment());

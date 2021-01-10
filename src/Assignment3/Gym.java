@@ -1,5 +1,5 @@
 
-package Assignment2;
+package Assignment3;
 
 public class Gym {
 	
